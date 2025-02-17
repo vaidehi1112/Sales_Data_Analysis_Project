@@ -1,7 +1,7 @@
 1. Aggregate Metrics:
-•	Total Sales: Sum of TransactionAmount.
-•	Average Sales per Transaction: Average of TransactionAmount.
-•	Total Quantity Sold: Sum of Quantity.
+•	Total Sales: Sum of TransactionAmount. (Rs. 10202662960.19)
+•	Average Sales per Transaction: Average of TransactionAmount. (Rs. 20405.33)
+•	Total Quantity Sold: Sum of Quantity. (3747755)
 •	Total Discounts Given: Sum of (TransactionAmount * DiscountPercent / 100).
 •	Total Revenue after Discount: Sum of (TransactionAmount - TransactionAmount * DiscountPercent / 100).
 
