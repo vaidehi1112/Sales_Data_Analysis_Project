@@ -5,7 +5,7 @@ Sales Data Analysis Project## Overview
 
 This project analyzes sales data to provide key insights and metrics, using advanced SQL queries. The analysis covers aggregate metrics, drill-down metrics, and customer segmentation.
 ## Files 
-- 'assessment_dataset.csv': The dataset used for analysis.
+- 'assessment_dataset.csv': The dataset used for analysis. (Find this file in the attached zip file)
 - 'assessment_dataset.sql': SQL scripts for basic analysis and key insights.
 - `advanced_sales_analysis.sql`: Advanced SQL scripts using window functions and CTEs for deeper insights.
 - `report/`: Contains the analysis report and visualizations.
