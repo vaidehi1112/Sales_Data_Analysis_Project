@@ -4,7 +4,8 @@
 •	Total Quantity Sold: Sum of Quantity.
 •	Total Discounts Given: Sum of (TransactionAmount * DiscountPercent / 100).
 •	Total Revenue after Discount: Sum of (TransactionAmount - TransactionAmount * DiscountPercent / 100).
-2. Drill Down Metrics:
+
+3. Drill Down Metrics:
 •	Sales by City: Total sales grouped by City.
 •	Sales by Store Type: Total sales grouped by StoreType (In-Store vs Online).
 •	Sales by Product: Total sales grouped by ProductName.
