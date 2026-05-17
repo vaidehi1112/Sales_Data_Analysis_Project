@@ -1,18 +1,52 @@
-1. Aggregate Metrics:
-•	Total Sales: Sum of TransactionAmount. 
-•	Average Sales per Transaction: Average of TransactionAmount
-•	Total Quantity Sold: Sum of Quantity.
-•	Total Discounts Given: Sum of (TransactionAmount * DiscountPercent / 100).
-•	Total Revenue after Discount: Sum of (TransactionAmount - TransactionAmount * DiscountPercent / 100).
+# Business Insights & Metrics
 
-3. Drill Down Metrics:
-•	Sales by City: Total sales grouped by City.
-•	Sales by Store Type: Total sales grouped by StoreType (In-Store vs Online).
-•	Sales by Product: Total sales grouped by ProductName.
-•	Sales by Payment Method: Total sales grouped by PaymentMethod.
-•	Sales by Region: Total sales grouped by Region.
-•	Sales by Customer Age Group: Total sales grouped by age ranges (e.g., 20-30, 31-40, etc.).
-•	Sales by Customer Gender: Total sales grouped by CustomerGender.
-•	Promotional Sales vs. Non-Promotional Sales: Total sales where IsPromotional is Yes/No.
-•	Returned Items: Count and value of returned items (Returned is Yes).
-•	Average Delivery Time: Average of DeliveryTimeDays.
+## Aggregate Metrics
+
+### Total Sales
+Calculated using the sum of transaction amounts to measure overall business revenue.
+
+### Average Sales per Transaction
+Measures average customer spending per transaction.
+
+### Total Quantity Sold
+Tracks the total number of products sold.
+
+### Total Discounts Given
+Calculates total discount value provided to customers.
+
+### Total Revenue After Discount
+Measures net revenue after applying discounts.
+
+---
+
+## Drill-Down Analysis
+
+### Sales by City
+Analyzes top-performing cities based on sales revenue.
+
+### Sales by Store Type
+Compares performance between online and in-store sales channels.
+
+### Sales by Product
+Identifies best-selling products.
+
+### Sales by Payment Method
+Analyzes customer payment preferences.
+
+### Sales by Region
+Evaluates regional sales performance.
+
+### Sales by Customer Age Group
+Segments customers by age demographics.
+
+### Sales by Customer Gender
+Analyzes purchasing trends by gender.
+
+### Promotional vs Non-Promotional Sales
+Measures effectiveness of promotional campaigns.
+
+### Returned Items Analysis
+Tracks return count and return value.
+
+### Average Delivery Time
+Measures operational delivery efficiency.
