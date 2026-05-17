@@ -1,16 +1,57 @@
-# Sales_Data_Analysis_Project
-Sales dataset to explore data and generate metrics &amp; Key insights  in bullet points
+# Sales Data Analysis Project
 
-Sales Data Analysis Project## Overview 
+## Overview
+This project analyzes sales data using SQL to generate business insights, KPIs, and performance metrics.
 
-This project analyzes sales data to provide key insights and metrics, using advanced SQL queries. The analysis covers aggregate metrics, drill-down metrics, and customer segmentation.
-## Files 
-- 'assessment_dataset.csv': The dataset used for analysis. (Find this file in the attached zip file)
-- 'assessment_dataset.sql': SQL scripts for basic analysis and key insights.
-- `advanced_sales_analysis.sql`: Advanced SQL scripts using window functions and CTEs for deeper insights.
-- `report/`: Contains the analysis report and visualizations.
-## How to Use 
-1. Clone the repository: 'git clone https://github.com/username/Sales_Data_Analysis_Project.git'
-2. Load the dataset into your SQL environment.
-3. Run the SQL scripts to generate the metrics and insights.
-4. Review the analysis report in the 'report/' directory.
+The analysis includes:
+- Revenue analysis
+- Customer segmentation
+- Product performance
+- Regional trends
+- Advanced SQL-based reporting
+
+---
+
+## Tools & Technologies
+- SQL
+- MySQL / SQL Server
+- Window Functions
+- Common Table Expressions (CTEs)
+
+---
+
+## Project Files
+
+- `assessment_dataset.csv` → Raw sales dataset
+- `assessment_dataset.sql` → Basic sales analysis queries
+- `advanced_sales_analysis.sql` → Advanced SQL analysis using CTEs and window functions
+- `report/` → Analysis reports and visualizations
+
+---
+
+## Business Questions Solved
+
+- Which products generated the highest revenue?
+- Which customers contributed most to sales?
+- What are the monthly sales trends?
+- Which regions performed best?
+- How can customers be segmented based on purchasing behavior?
+
+---
+
+## Key SQL Concepts Used
+
+- Joins
+- Aggregate Functions
+- GROUP BY
+- Window Functions
+- CTEs
+- Ranking Functions
+
+---
+
+## How to Run
+
+1. Load the dataset into your SQL environment
+2. Run the SQL scripts
+3. Review generated insights and reports
