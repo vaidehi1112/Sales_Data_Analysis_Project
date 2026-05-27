@@ -50,6 +50,16 @@ The analysis includes:
 
 ---
 
+## Key Findings
+
+- Revenue performance varied significantly across regions.
+- Certain products consistently generated higher sales volume.
+- Promotional sales contributed substantially to total revenue.
+- Customer demographics showed distinct purchasing patterns.
+- Delivery performance impacted customer experience metrics.
+
+---
+
 ## How to Run
 
 1. Load the dataset into your SQL environment
